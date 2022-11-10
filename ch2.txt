@@ -1,1 +1,1 @@
-this is the second file of git
+this is the chnged txt in the ch2 file
